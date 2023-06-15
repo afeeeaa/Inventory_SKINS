@@ -25,9 +25,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		text-decoration: none;
 	}
 
-	a:hover {
-		color: #97310e;
-	}
 
 	h1 {
 		color: #444;
@@ -55,6 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		min-height: 96px;
 	}
 
+	
 	p {
 		margin: 0 0 10px;
 		padding:0;
